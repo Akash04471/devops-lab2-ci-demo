@@ -1,0 +1,21 @@
+{
+  "name": "devops-lab2-ci-demo",
+  "version": "1.0.0",
+  "description": "DevOps Lab Exercise 2 - Basic CI Workflow Triggered by Commits using GitHub Actions",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [
+    "devops",
+    "ci-cd",
+    "github-actions",
+    "jest",
+    "testing"
+  ],
+  "author": "Akash04471",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
